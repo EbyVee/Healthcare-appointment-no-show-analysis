@@ -1,6 +1,5 @@
 # Healthcare-appointment-no-show-analysis
 Interactive Power BI dashboard analysing healthcare appointment no-show trends and identifying factors influencing patient attendance.
-# 🏥 Healthcare Appointment No-Show Analysis Dashboard
 
 ## 📖 Project Overview
 
@@ -8,7 +7,6 @@ This project presents an interactive Power BI dashboard developed to analyse hea
 
 The dashboard provides operational insights to help healthcare organisations reduce missed appointments, improve patient attendance, and enhance service efficiency through data-driven decision-making.
 
----
 
 ##  Project Objectives
 
