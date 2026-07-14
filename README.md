@@ -102,13 +102,5 @@ Based on the analysis, healthcare providers could:
 * Business Insight Generation
 * Healthcare Data Analysis
 
----
-
-## 📬 Contact
-
-If you would like to discuss this project or connect with me:
-
-
-* **GitHub:** *(Add your GitHub profile)*
 
 Thank you for viewing my project!
