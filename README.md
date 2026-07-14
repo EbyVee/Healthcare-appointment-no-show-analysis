@@ -7,6 +7,9 @@ This project presents an interactive Power BI dashboard developed to analyse hea
 
 The dashboard provides operational insights to help healthcare organisations reduce missed appointments, improve patient attendance, and enhance service efficiency through data-driven decision-making.
 
+##  Dashboard Preview
+
+![Healthcare Dashboard] (Dashboard_screenshot.png)
 
 ##  Project Objectives
 
